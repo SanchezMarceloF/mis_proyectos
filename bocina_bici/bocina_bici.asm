@@ -12,4 +12,6 @@
  rjmp main
  
  .org int_vectors_size
+ 
+ main: 
   
